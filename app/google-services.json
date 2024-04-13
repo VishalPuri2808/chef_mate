@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1058628626736",
+    "project_id": "chefmate-56bd7",
+    "storage_bucket": "chefmate-56bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058628626736:android:66be6c52fa47d208f440f5",
+        "android_client_info": {
+          "package_name": "com.arvind.foodizone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058628626736-6ltv0bbv5e7oicvsggmi7ttudh7t6pa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJI9iyAzV9jaRQaibS_1Btab6ACzLez4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058628626736-6ltv0bbv5e7oicvsggmi7ttudh7t6pa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058628626736:android:66b4ddc24573c27ff440f5",
+        "android_client_info": {
+          "package_name": "com.vishal.foodizone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058628626736-0k6ii5538bun2tb5r8qlsv93in220k51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishal.foodizone",
+            "certificate_hash": "0f603704b9e35ca2f87e1094917480c599358fcf"
+          }
+        },
+        {
+          "client_id": "1058628626736-6ltv0bbv5e7oicvsggmi7ttudh7t6pa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJI9iyAzV9jaRQaibS_1Btab6ACzLez4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058628626736-6ltv0bbv5e7oicvsggmi7ttudh7t6pa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
