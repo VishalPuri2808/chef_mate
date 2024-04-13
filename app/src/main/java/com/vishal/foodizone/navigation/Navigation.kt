@@ -15,6 +15,7 @@ import com.vishal.foodizone.view.LoginScreen
 import com.vishal.foodizone.view.OtpVerifyScreen
 import com.vishal.foodizone.view.PasswordReset
 import com.vishal.foodizone.view.WelcomeScreen
+import com.vishal.foodizone.view.bottom.SearchScreen
 
 @Composable
 fun Navigation(navController: NavHostController) {
