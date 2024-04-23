@@ -1,4 +1,4 @@
-package com.arvind.foodizone.view.bottom
+package com.vishal.foodizone.view.bottom
 
 import android.content.res.Configuration
 import androidx.compose.foundation.*
@@ -81,12 +81,7 @@ fun Title() {
 
 @Composable
 fun Content() {
-    Column() {
-        Header()
 
-
-
-    }
 }
 
 
