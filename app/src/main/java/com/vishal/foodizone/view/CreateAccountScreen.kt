@@ -34,7 +34,6 @@ import com.arvind.foodizone.ui.theme.colorWhite
 import com.arvind.foodizone.ui.theme.darkTheme
 import com.arvind.foodizone.ui.theme.lightTheme
 
-
 @Composable
 fun CreateAccountScreen(navController: NavController) {
     Box(
